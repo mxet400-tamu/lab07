@@ -131,3 +131,4 @@ Before completing your lab report, verify the following:
 * [ ] `numbers.py` correctly increments `x`, `y`, `z` by `1.25`, `1.50`, and `1.75`.
 * [ ] `volume.py` accurately computes and logs volume as $x \times y \times z$.
 * [ ] Capture terminal screenshots of all four running nodes for your lab report.
+
